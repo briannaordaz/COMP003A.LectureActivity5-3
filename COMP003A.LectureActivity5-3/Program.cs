@@ -1,7 +1,7 @@
 ﻿//Author: Brianna Ordaz
 //Course: COMP003A
 //Faculty: Jonathan Cruz
-//Purpose: 
+//Purpose: to demonstrate abstraction using abstract classes and interfaces
 namespace COMP003A.LectureActivity5_3;
 
     internal class Program
