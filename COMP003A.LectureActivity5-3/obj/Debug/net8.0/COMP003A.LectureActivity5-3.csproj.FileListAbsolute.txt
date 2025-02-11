@@ -2,3 +2,14 @@
 /Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.AssemblyInfoInputs.cache
 /Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.AssemblyInfo.cs
 /Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.csproj.CoreCompileInputs.cache
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/bin/Debug/net8.0/COMP003A.LectureActivity5-3
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/bin/Debug/net8.0/COMP003A.LectureActivity5-3.deps.json
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/bin/Debug/net8.0/COMP003A.LectureActivity5-3.runtimeconfig.json
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/bin/Debug/net8.0/COMP003A.LectureActivity5-3.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/bin/Debug/net8.0/COMP003A.LectureActivity5-3.pdb
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.sourcelink.json
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/refint/COMP003A.LectureActivity5-3.dll
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.pdb
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/COMP003A.LectureActivity5-3.genruntimeconfig.cache
+/Users/brianna/RiderProjects/COMP003A.LectureActivity5-3/COMP003A.LectureActivity5-3/obj/Debug/net8.0/ref/COMP003A.LectureActivity5-3.dll
