@@ -41,7 +41,7 @@ namespace COMP003A.LectureActivity5_3;
         /// Represents a circle derived from Shape.
         /// </summary>
 
-        class Circle : Shape
+        class Circle : Shape, IDrawable
         {
             // Auto-implemented property
             public double Radius { get; set; }
@@ -67,13 +67,19 @@ namespace COMP003A.LectureActivity5_3;
                 // returns the area of the circle
                 return Math.PI * Radius * Radius;
             }
-            
+
+            public void Draw()
+            {
+                Console.WriteLine("Drawing a circle");
+            }
         }
 
             /// <summary>
             /// Represents a rectangle derived from Shape.
             /// </summary>
-        class Rectangle : Shape
+            
+            
+        class Rectangle : Shape, IDrawable
         {
             //Auto-implemented properties
             public double Width { get; set; }
@@ -103,15 +109,25 @@ namespace COMP003A.LectureActivity5_3;
             }
 
             ///<summary>
-            /// Defines a contract for drawable objects.
+            /// Implements Draw() method for a rectangle
             /// </summary>
 
-            interface IDrawable
+            public void Draw()
             {
-                /// <summary>
-                /// Draws the object
-                /// </summary>
-                void Draw();
+                Console.WriteLine("Drawing a rectangle.");
             }
+        }
+            
+            
+        ///<summary>
+        /// Defines a contract for drawable objects.
+        /// </summary>
+
+        interface IDrawable
+        {
+            /// <summary>
+            /// Draws the object
+            /// </summary>
+            void Draw();
         }
     }
