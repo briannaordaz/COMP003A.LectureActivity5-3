@@ -70,6 +70,9 @@ namespace COMP003A.LectureActivity5_3;
             
         }
 
+            /// <summary>
+            /// Represents a rectangle derived from Shape.
+            /// </summary>
         class Rectangle : Shape
         {
             //Auto-implemented properties
@@ -97,6 +100,18 @@ namespace COMP003A.LectureActivity5_3;
             {
                 //returns the area of the rectangle
                 return Width * Height;
+            }
+
+            ///<summary>
+            /// Defines a contract for drawable objects.
+            /// </summary>
+
+            interface IDrawable
+            {
+                /// <summary>
+                /// Draws the object
+                /// </summary>
+                void Draw();
             }
         }
     }
